@@ -1,0 +1,17 @@
+C:\Users\ashle\source\repos\CS311_Project2_AMR\bin\Debug\net6.0-windows\CS311_Project2_AMR.exe
+C:\Users\ashle\source\repos\CS311_Project2_AMR\bin\Debug\net6.0-windows\CS311_Project2_AMR.deps.json
+C:\Users\ashle\source\repos\CS311_Project2_AMR\bin\Debug\net6.0-windows\CS311_Project2_AMR.runtimeconfig.json
+C:\Users\ashle\source\repos\CS311_Project2_AMR\bin\Debug\net6.0-windows\CS311_Project2_AMR.dll
+C:\Users\ashle\source\repos\CS311_Project2_AMR\bin\Debug\net6.0-windows\CS311_Project2_AMR.pdb
+C:\Users\ashle\source\repos\CS311_Project2_AMR\obj\Debug\net6.0-windows\CS311_Project2_AMR.csproj.AssemblyReference.cache
+C:\Users\ashle\source\repos\CS311_Project2_AMR\obj\Debug\net6.0-windows\CS311_Project2_AMR.frmCraps.resources
+C:\Users\ashle\source\repos\CS311_Project2_AMR\obj\Debug\net6.0-windows\CS311_Project2_AMR.csproj.GenerateResource.cache
+C:\Users\ashle\source\repos\CS311_Project2_AMR\obj\Debug\net6.0-windows\CS311_Project2_AMR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashle\source\repos\CS311_Project2_AMR\obj\Debug\net6.0-windows\CS311_Project2_AMR.AssemblyInfoInputs.cache
+C:\Users\ashle\source\repos\CS311_Project2_AMR\obj\Debug\net6.0-windows\CS311_Project2_AMR.AssemblyInfo.cs
+C:\Users\ashle\source\repos\CS311_Project2_AMR\obj\Debug\net6.0-windows\CS311_Project2_AMR.csproj.CoreCompileInputs.cache
+C:\Users\ashle\source\repos\CS311_Project2_AMR\obj\Debug\net6.0-windows\CS311_Project2_AMR.dll
+C:\Users\ashle\source\repos\CS311_Project2_AMR\obj\Debug\net6.0-windows\refint\CS311_Project2_AMR.dll
+C:\Users\ashle\source\repos\CS311_Project2_AMR\obj\Debug\net6.0-windows\CS311_Project2_AMR.pdb
+C:\Users\ashle\source\repos\CS311_Project2_AMR\obj\Debug\net6.0-windows\CS311_Project2_AMR.genruntimeconfig.cache
+C:\Users\ashle\source\repos\CS311_Project2_AMR\obj\Debug\net6.0-windows\ref\CS311_Project2_AMR.dll
