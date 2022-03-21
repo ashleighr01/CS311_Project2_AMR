@@ -62,6 +62,7 @@
             this.lblBankBalance.Size = new System.Drawing.Size(80, 25);
             this.lblBankBalance.TabIndex = 2;
             this.lblBankBalance.Text = "Balance: ";
+            this.lblBankBalance.TextChanged += new System.EventHandler(this.btnRoll_Click);
             // 
             // txtBet
             // 
